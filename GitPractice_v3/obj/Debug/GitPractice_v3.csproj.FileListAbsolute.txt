@@ -1,2 +1,0 @@
-c:\users\pb7n0052\documents\visual studio 2015\Projects\GitPractice_v3\GitPractice_v3\bin\Debug\GitPractice_v3.exe.config
-C:\Users\PB7N0062\Documents\Projects_Codes\STUFFS\XXXX\Ayisse\GitPractice_v3\bin\Debug\GitPractice_v3.exe.config

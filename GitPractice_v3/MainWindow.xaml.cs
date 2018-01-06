@@ -23,7 +23,7 @@ namespace GitPractice_v3
         public MainWindow()
         {
             InitializeComponent();
-            //sample - Cath
+            //sample - Catherine
         }
     }
 }
